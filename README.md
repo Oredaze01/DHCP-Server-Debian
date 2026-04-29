@@ -17,7 +17,7 @@
 - La configuration IP du second client
 
 
-![[Pasted image 20260429090703.png]](Ressources/DHCP-Configuration-Client2-3.png)
+![[Pasted image 20260429090703.png]](
 
 
 
